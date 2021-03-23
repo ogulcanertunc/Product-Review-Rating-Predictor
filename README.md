@@ -42,3 +42,20 @@ Try entering a review you found online or wrote yourself; It will classify the r
     * 3.2 Data Entry with Streamlit
     * 3.3 Prediction
 </details>  
+
+## Tecnologies Used:
+<details>
+<a name="Technologies_Used"></a>
+<summary>Show/Hide</summary>
+<br>
+    
+* <strong>Python</strong>
+* <strong>Pandas</strong>
+* <strong>Numpy</strong>
+* <strong>NLTK</strong>
+* <strong>Scrapy</strong>
+* <strong>Scikit-Learn</strong>
+* <strong>Spacy</strong>
+* <strong>Streamlit</strong>
+* <strong>Heroku</strong>
+</details>
