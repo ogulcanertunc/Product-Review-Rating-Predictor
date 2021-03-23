@@ -3,7 +3,7 @@ import numpy as np
 pd.set_option("max_columns", None)
 
 
-df_= pd.read_csv("Lectures/Week 10/Dosyalar/df_sub.csv")
+df_= pd.read_csv("Data/df_sub.csv")
 df_.dropna(inplace=True)
 df_.head()
 df=pd.DataFrame()
