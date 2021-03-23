@@ -3,8 +3,7 @@
 #===============================================================================================#
 import streamlit as sl
 import pickle
-from sklearn.neighbors import KNeighborsClassifier
-import Helpers as pre
+import Help_text as pre
 import re
 
 
