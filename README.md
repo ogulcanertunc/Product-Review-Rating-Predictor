@@ -4,7 +4,7 @@
   <img src="https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width=600>
 </p>
 
-<strong> Here is a demo application of the review classifier: https://review-rating-predictor-byogi.herokuapp.com// </strong>
+<strong> Here is a demo application of the review classifier: https://review-rating-predictor-byogi.herokuapp.com/ </strong>
 
 Try entering a review you found online or wrote yourself; It will classify the review title, review, or both with a score of 1-5. However, it may be a mistake to expect a very consistent result, because the original data is too large, so I used a scaled-down dataset that I had used in the Rating Systems and Sorting Reviews on Amazon Data project.
 
